@@ -1,4 +1,4 @@
-<img width="1245" height="717" alt="image" src="https://github.com/user-attachments/assets/a11c7b73-a97a-420d-b002-5586d2a19f8e" />
+<img width="1245" height="717" alt="image" src="https://github.com/user-attachments/assets/a11c7b73-a97a-420d-b002-5586d2a19f8e" >
 
 
 # 🛡️ Análise de Risco de Fraude Financeira
