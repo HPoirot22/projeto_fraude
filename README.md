@@ -46,6 +46,7 @@ O fluxo do projeto foi desenhado seguindo as melhores práticas de desenvolvimen
 
 ## 🔧 Estrutura do Repositório
 
+```text
 fraude-analytics/
 ├── .venv/                  # Ambiente virtual local (ignorado no git)
 ├── data/
@@ -57,7 +58,7 @@ fraude-analytics/
 ├── .gitignore              # Proteção para não subir arquivos pesados ou locais
 ├── requirements.txt        # Dependências do projeto (Pandas, Numpy, Sklearn, etc.)
 └── README.md               # Documentação técnica e de negócio
-
+```
 📈 Inteligência de Negócio & Fórmulas DAX
 Os principais indicadores de risco foram centralizados e calculados utilizando expressões DAX customizadas:
 
